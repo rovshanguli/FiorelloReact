@@ -1,0 +1,20 @@
+.footers{
+    display: flex;
+   ul{
+       margin-left: 50px;
+       li{
+           list-style: none;
+       }
+   }
+}
+.links{
+    display: flex;
+    a{
+        margin-left: 100px;
+        text-decoration: none;
+        color: teal;
+    }
+    img{
+        margin-left: 100px;
+    }
+}
